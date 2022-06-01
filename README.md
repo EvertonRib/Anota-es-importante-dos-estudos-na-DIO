@@ -1,4 +1,4 @@
-# Anotações-importante-dos-estudos-na-DIO
+# Importante-para-os-estudos-na-DIO
 O trajeto para conquistas
 
 Estou estudando o BootCamp na DIO (TQI Fullstack Developer).
