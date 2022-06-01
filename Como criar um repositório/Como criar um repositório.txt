@@ -1,0 +1,23 @@
+Criando um repositório:
+
+1 - Clicar no sinal + ao lado da foto do perfil;
+2 - Repository name: Colocar um nome pertinente ao assunto desejado;
+3 - Description: Descreva sobre o assunto;
+4 - Deixar marcado o Public para que todos vizualizem seu progresso;
+5 - Marque o Readme;
+6 - Clicar em Create repository.
+
+Como jogar para a máquina esses dados:
+
+Terá que ter baixado o Gitbash em seu computador
+
+## Link
+
+(https://git-scm.com/downloads)
+
+1 - Crie uma pasta de sua preferência;
+2 - No repositório criado tem um botão escrito "Code", clica nele e copia o endereço https://...;
+3 - Dentro da pasta criada, clique com o botão direito do mouse e selecione Git Bash Here;
+4 - Digite: git clone (E cola o endereço copiado do repositório)
+
+Você irá observar que gravou uma pasta com o arquivo .md, para ler você abrirá como .txt
